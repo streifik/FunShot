@@ -1,5 +1,5 @@
-# FunShot UI
-## Implemented with SwiftUI
+## FunShot UI
+ Implemented with SwiftUI
 
 <div>
 <img src="images/1.PNG" width=23%/>
