@@ -1,4 +1,4 @@
-# Funshot UI
+# FunShot UI
 ## Implemented with SwiftUI
 
 <div>
