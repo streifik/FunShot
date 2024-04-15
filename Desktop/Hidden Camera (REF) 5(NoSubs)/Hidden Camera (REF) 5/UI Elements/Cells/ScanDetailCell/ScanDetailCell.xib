@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="ScanDetailCell" rowHeight="80" id="M2X-cG-UQF" customClass="ScanDetailCell" customModule="Hidden_Spy_Camera_Finder" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="80"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="M2X-cG-UQF" id="iRH-E4-Yyp">
+                <rect key="frame" x="0.0" y="0.0" width="393" height="80"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="l6y-WZ-S4B">
+                        <rect key="frame" x="12" y="10" width="369" height="68"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="equalSpacing" translatesAutoresizingMaskIntoConstraints="NO" id="IgP-8x-AB4">
+                                <rect key="frame" x="0.0" y="0.0" width="369" height="34"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="d0d-ym-wF4">
+                                        <rect key="frame" x="0.0" y="0.0" width="41.333333333333336" height="34"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pzj-BD-Psb">
+                                        <rect key="frame" x="315" y="0.0" width="54" height="34"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="18" id="L57-1c-PCv"/>
+                                        </constraints>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <state key="normal" title="Button"/>
+                                        <connections>
+                                            <action selector="my_actionTapped_rudk_hpsd:" destination="M2X-cG-UQF" eventType="touchUpInside" id="LmX-0f-14X"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="equalSpacing" translatesAutoresizingMaskIntoConstraints="NO" id="phr-Fv-Neb">
+                                <rect key="frame" x="0.0" y="34" width="369" height="34"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w4J-zL-Oon">
+                                        <rect key="frame" x="0.0" y="0.0" width="41.333333333333336" height="34"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="0.53725490196078429" green="0.52941176470588236" blue="0.52941176470588236" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xyw-ww-AbH">
+                                        <rect key="frame" x="327.66666666666669" y="0.0" width="41.333333333333314" height="34"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="0.53725490196078429" green="0.52941176470588236" blue="0.52941176470588236" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <color key="backgroundColor" red="0.16470588235294117" green="0.16470588235294117" blue="0.14117647058823529" alpha="1" colorSpace="calibratedRGB"/>
+                <constraints>
+                    <constraint firstItem="l6y-WZ-S4B" firstAttribute="top" secondItem="iRH-E4-Yyp" secondAttribute="top" constant="10" id="0S1-4n-i0V"/>
+                    <constraint firstAttribute="trailing" secondItem="l6y-WZ-S4B" secondAttribute="trailing" constant="12" id="LoF-Y7-2mf"/>
+                    <constraint firstItem="l6y-WZ-S4B" firstAttribute="leading" secondItem="iRH-E4-Yyp" secondAttribute="leading" constant="12" id="Pbj-Kk-abt"/>
+                    <constraint firstAttribute="bottom" secondItem="l6y-WZ-S4B" secondAttribute="bottom" constant="10" id="ySc-Kx-pMw"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="subTitleTextLabel" destination="w4J-zL-Oon" id="FlA-VP-3zQ"/>
+                <outlet property="subTitleValueLabel" destination="xyw-ww-AbH" id="Kj5-8O-JYX"/>
+                <outlet property="titleTextLabel" destination="d0d-ym-wF4" id="GBe-py-rsS"/>
+                <outlet property="titleValueButton" destination="pzj-BD-Psb" id="IkR-J7-79O"/>
+            </connections>
+            <point key="canvasLocation" x="0.76335877862595414" y="37.323943661971832"/>
+        </tableViewCell>
+    </objects>
+</document>

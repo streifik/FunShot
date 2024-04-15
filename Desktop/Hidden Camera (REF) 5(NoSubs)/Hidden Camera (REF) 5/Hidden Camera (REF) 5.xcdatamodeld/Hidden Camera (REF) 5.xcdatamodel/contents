@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22225" systemVersion="23B74" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FoundLanDevice" representedClassName="FoundLanDevice" syncable="YES" codeGenerationType="class">
+        <attribute name="brand" optional="YES" attributeType="String"/>
+        <attribute name="ipAddress" optional="YES" attributeType="String"/>
+        <attribute name="macAddress" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <relationship name="lanHistory" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="LanHistory" inverseName="devices" inverseEntity="LanHistory"/>
+    </entity>
+    <entity name="LanHistory" representedClassName="LanHistory" syncable="YES" codeGenerationType="class">
+        <attribute name="foundDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="wifiInterface" optional="YES" attributeType="String"/>
+        <attribute name="wifiIP" optional="YES" attributeType="String"/>
+        <attribute name="wifiName" optional="YES" attributeType="String"/>
+        <relationship name="devices" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FoundLanDevice" inverseName="lanHistory" inverseEntity="FoundLanDevice"/>
+    </entity>
+    <entity name="OperatorEntety" representedClassName="OperatorEntety" syncable="YES" codeGenerationType="class">
+        <attribute name="id" attributeType="String"/>
+        <attribute name="operatorName" attributeType="String"/>
+    </entity>
+</model>

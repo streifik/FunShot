@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "78F458E2-6D48-439D-AF49-AC04FE565F43"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C88E316F-0717-4199-A7F4-8E4935AE09FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Models/BLUService/BLUService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "centralManager(_:didDiscover:advertisementData:rssi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDCF9D63-1D33-4BAA-98FF-579CC1384442"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Models/BLUService/BLUService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "startScan(services:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDCF9D63-1D33-4BAA-98FF-579CC1384442 - 8deeef7510a57ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hidden_Spy_Camera_Finder.BLUService.startScan(services: Swift.Optional&lt;Swift.Array&lt;__C.CBUUID&gt;&gt;, options: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/Workspace/Hidden%20Spy%20Camera%20Finder/Hidden%20Spy%20Camera%20Finder/Models/BLUService/BLUService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "EDCF9D63-1D33-4BAA-98FF-579CC1384442 - 8deeef7510a57ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hidden_Spy_Camera_Finder.BLUService.startScan(services: Swift.Optional&lt;Swift.Array&lt;__C.CBUUID&gt;&gt;, options: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/Workspace/Hidden%20Spy%20Camera%20Finder/Hidden%20Spy%20Camera%20Finder/Models/BLUService/BLUService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA27DEAB-ACBC-451F-A9F5-B703B4DC8FD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Models/BLUService/BLUService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F248FED1-F2F4-4250-ACCB-5A4FB708915C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Models/BLUService/BLUService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "centralManagerDidUpdateState(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F248FED1-F2F4-4250-ACCB-5A4FB708915C - b084154f3d11f07d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hidden_Spy_Camera_Finder.BLUService.centralManagerDidUpdateState(__C.CBCentralManager) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/Workspace/Hidden%20Spy%20Camera%20Finder/Hidden%20Spy%20Camera%20Finder/Models/BLUService/BLUService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "F248FED1-F2F4-4250-ACCB-5A4FB708915C - b084154f3d11f09a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hidden_Spy_Camera_Finder.BLUService.centralManagerDidUpdateState(__C.CBCentralManager) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/Workspace/Hidden%20Spy%20Camera%20Finder/Hidden%20Spy%20Camera%20Finder/Models/BLUService/BLUService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D0A1858-3222-47E2-91C2-A432119CAB4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "validateSubscriptionWithCompletionHandler(productIdentifier:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D0A1858-3222-47E2-91C2-A432119CAB4F - 3f3cad6dfaed3a74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "1D0A1858-3222-47E2-91C2-A432119CAB4F - 3f3cad6dfaed3a74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "239"
+                  endingLineNumber = "239"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "1D0A1858-3222-47E2-91C2-A432119CAB4F - 3f3cad6dfaed394f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "262"
+                  endingLineNumber = "262"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "1D0A1858-3222-47E2-91C2-A432119CAB4F - 3f3cad6dfaed394f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "262"
+                  endingLineNumber = "262"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "136D6BB4-50B0-4286-B4D3-89C019A2BE73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "validateSubscriptionWithCompletionHandler(productIdentifier:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "136D6BB4-50B0-4286-B4D3-89C019A2BE73 - 3f3cad6dfaed3b5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "246"
+                  endingLineNumber = "246"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "136D6BB4-50B0-4286-B4D3-89C019A2BE73 - 3f3cad6dfaed3b5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "246"
+                  endingLineNumber = "246"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "136D6BB4-50B0-4286-B4D3-89C019A2BE73 - 3f3cad6dfaed3e56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "136D6BB4-50B0-4286-B4D3-89C019A2BE73 - 3f3cad6dfaed3e56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hidden_Spy_Camera_Finder.HSCFIAPManager.validateSubscriptionWithCompletionHandler(productIdentifier: Swift.String, _: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Hidden Spy Camera Finder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/evgeniybruchkovskiy/Desktop/ios-hidden-camera-detector/Hidden%20Spy%20Camera%20Finder/Subscription/Flow/configs/HSCFIAPHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C50C7D7-1B17-4839-B77F-96E9DC8D3DAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Core/Services/LanScannerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "merge()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58A00FB6-3712-4775-8F28-8B5C617B1F31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hidden Spy Camera Finder/Scenes/Scan/HSCFScanViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "scanningTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
